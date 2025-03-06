@@ -1,0 +1,19 @@
+A kaggle formula 1 adatait fogjuk feldolgozni
+a feldolgozás 2 lépcsőből áll:
+
+1. az adatokat betöltjük a relációs adatbázisba
+2. különböző lekérdezéseket fogunk készíteni az adattal kapcsolatban
+
+project setup:
+git-et használunk a kód verziózására
+moduláris fejlesztést fogunk eszközölni
+
+riportok egy részét natív sql-ben
+egy részét pedig pandas segítségével fogjuk elkészíteni
+
+---------------------------------------------------------------------
+az adatok betöltését meg fogjuk csinálni MongoDB-vel is
+
+Dockert mint megoldást:
+az adatbázisokat dockerben fogjuk futtatni
+megnézzük hogyan tudunk custom DockerFilet készíteni 
