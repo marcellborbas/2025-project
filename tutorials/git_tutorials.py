@@ -9,4 +9,6 @@ Untracked állapot - Az olyan fájlok amellyeket a GIT még nem követ (nincsene
 Staged állapot - Olyan fájlok amellyeket hozzá adtál a staging areához  / egyfajta mentési pont
 Commited állapot - A változtatások elmentésre kerülnek a helyi repositoryban 
 
+Branch - A git branch egy független fejlesztési vona....
+
 """
