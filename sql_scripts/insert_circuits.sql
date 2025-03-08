@@ -1,0 +1,1 @@
+insert into circuits (circuitId, circuitRef, name, location, country, lat, lng, alt, url) values (:circuitId, :circuitRef, :name, :location, :country, :lat, :lng, :alt, :url)

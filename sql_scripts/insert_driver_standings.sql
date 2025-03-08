@@ -1,0 +1,1 @@
+insert into driver_standings (driverStandingsId, raceId, driverId, points, position, positionText, wins) values (:driverStandingsId, :raceId, :driverId, :points, :position, :positionText, :wins)

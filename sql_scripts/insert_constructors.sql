@@ -1,0 +1,1 @@
+insert into constructors (constructorId, constructorRef, name, nationality, url) values (:constructorId, :constructorRef, :name, :nationality, :url)

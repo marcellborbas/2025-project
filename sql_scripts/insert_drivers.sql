@@ -1,0 +1,1 @@
+insert into drivers (driverId, driverRef, number, code, forename, surname, dob, nationality, url) values (:driverId, :driverRef, :number, :code, :forename, :surname, :dob, :nationality, :url)

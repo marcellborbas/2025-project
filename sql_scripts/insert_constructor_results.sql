@@ -1,0 +1,1 @@
+insert into constructor_results (constructorResultsId, raceId, constructorId, points, status) values (:constructorResultsId, :raceId, :constructorId, :points, :status)

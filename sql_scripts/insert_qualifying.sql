@@ -1,0 +1,1 @@
+insert into qualifying (qualifyId, raceId, driverId, constructorId, number, position, q1, q2, q3) values (:qualifyId, :raceId, :driverId, :constructorId, :number, :position, :q1, :q2, :q3)

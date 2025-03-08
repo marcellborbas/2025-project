@@ -1,0 +1,1 @@
+insert into seasons (year, url) values (:year, :url)

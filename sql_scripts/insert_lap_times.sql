@@ -1,0 +1,1 @@
+insert into lap_times (raceId, driverId, lap, position, time, milliseconds) values (:raceId, :driverId, :lap, :position, :time, :milliseconds)

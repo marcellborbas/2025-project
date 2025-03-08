@@ -1,0 +1,1 @@
+insert into status (statusId, status) values (:statusId, :status)
